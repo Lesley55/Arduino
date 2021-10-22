@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ArduinoBluetooth</string>
+    <string name="textview">Press the button to send a bluetooth signal to the arduino.</string>
+    <string name="button">On</string>
+</resources>
